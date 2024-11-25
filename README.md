@@ -2,6 +2,9 @@
 
 This project is a Python-based Sudoku solver that employs **Constraint Propagation** and **Optimised Backtracking** using advanced heuristics such as **Minimum Remaining Value (MRV)** and **Least Constraining Value (LCV)** to solve puzzles efficiently.  
 
+![Sudoku Example](images/sudoku.png)
+
+
 ## Features  
 
 - Utilises **Constraint Propagation** to reduce the problem space by eliminating impossible values.  
